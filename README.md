@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @RicardoGava
+- 📫 ric.gva@gmail.com

@@ -5,7 +5,7 @@
 - Intern at IBM since february 2022;
 - Programming languages: Arduino, Javascript, Python.
 ###### &nbsp;
-## 🧐 Nowadays I'm focused on:
+## 🧐 I'm focused on:
  Improving my Java skills ☕. Learning about JDBC and Spring Boot.
  ###### &nbsp;
 ## 📊 GitHub Stats:

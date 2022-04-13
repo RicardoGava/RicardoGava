@@ -3,7 +3,7 @@
 - Associate of Science in Systems Analysis and Development at Mackenzie Presbiterian University;
 - Maker since 2010;
 - Intern at IBM since february 2022;
-- Programming languages: Arduino, Javascript, Python.
+- Programming languages: Arduino, Java, Javascript, Python.
 ###### &nbsp;
 ## 🧐 I'm focused on:
  Improving my Java skills ☕. Learning about JDBC and Spring Boot.

@@ -9,7 +9,7 @@
  Improving my Java skills ☕. Learning about JDBC and Spring Boot.
  ###### &nbsp;
 ## 📊 GitHub Stats:
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogava&layout=compact&theme=dracula)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogava&langs_count=10&layout=compact&theme=dracula)
 ###### &nbsp;
 ## 🤝 My socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardogava/)

@@ -6,7 +6,7 @@
 - Programming languages: Arduino, Java, Javascript, Python.
 ###### &nbsp;
 ## 🧐 I'm focused on:
- Improving my Java skills ☕. Learning about JDBC and Spring Boot.
+ Improving my Java skills ☕.
  ###### &nbsp;
 ## 📊 GitHub Stats:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogava&langs_count=10&layout=compact&theme=dracula)
